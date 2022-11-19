@@ -10,16 +10,16 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='https://pbs.twimg.com/profile_images/415961110635110400/xPO9YqTC.jpeg'
+            src='https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e7/T1_Faker_2022_Split_2.png/revision/latest?cb=20220619004304'
             alt='ron burgundy'
           />
 
           <p className='description'>
-            I dont know if you know this, but... I am kind of a big deal. I have
-            many leather bound books and my apartment smells of rich mahogany. I
-            am also a five-time local Emmy award-winning anchor for the KVWN Channel
-            4 News in San Diego. When im not reading the news, you will find me
-            playing the jazz flute around the city at different establishments.
+            Hi my name is Dorjee Zhang
+            I like to play league of legends
+            I also lke to sleep
+            Alec is cringe
+            Let's have fun
           </p>
 
           <a className='button' href='/'>
